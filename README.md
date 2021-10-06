@@ -1,1 +1,2 @@
-# instalacion-de-VS-Code-en-Linux
+# instalacion de VS Code en Linux
+
